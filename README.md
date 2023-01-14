@@ -17,9 +17,9 @@
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
         
 ### 🌟 Experience
-- UMC(University MakeUs Challenge) 동아리 2기 인하대학교 Android 파트
-- UMC(University MakeUs Challenge) 동아리 3기 인하대학교 Android 파트
-- GDG(Google Developer Group) Compose Camp (beginner)
+- UMC(University MakeUs Challenge) IT 동아리 2기 인하대학교 Android 파트 (2022.03~08)
+- UMC(University MakeUs Challenge) IT 동아리 3기 인하대학교 Android 파트 (2022.09~12)
+- GDG(Google Developer Group) Compose Camp (beginner) (2022.11.7~12.16)
 
 </div>
 
