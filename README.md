@@ -1,7 +1,7 @@
-<div align="left">
- 
  ## SeoHyeon🍀 <a href="https://hyeonlog-developer.tistory.com/"><img src="https://img.shields.io/badge/blog-E5511E?style=square&logo=Tistory&logoColor=white"/></a>
  안녕하세요! 개발자 신서현입니다.
+<div align="left">
+ 
 ### 📖 Skills
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
