@@ -1,7 +1,6 @@
-<!-- ### Hi there 👋 -->
 <div align="left">
-
-## SeoHyeon🍀 <a href="https://hyeonlog-developer.tistory.com/"><img src="https://img.shields.io/badge/blog-E5511E?style=square&logo=Tistory&logoColor=white"/></a>
+ 
+ ## SeoHyeon🍀 <a href="https://hyeonlog-developer.tistory.com/"><img src="https://img.shields.io/badge/blog-E5511E?style=square&logo=Tistory&logoColor=white"/></a>
  안녕하세요! 개발자 신서현입니다.
 ### 📖 Skills
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
@@ -24,9 +23,9 @@
 
 </div>
 
+<!-- ### Hi there 👋 -->
 <!--
 **ss99x2002/ss99x2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
