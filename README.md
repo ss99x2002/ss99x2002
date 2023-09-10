@@ -5,12 +5,12 @@
 
 <div>
 
-#### 💙 About Me
+### 💙 About Me
 - Inha University - Computer Science Engineering
 - Blog : https://hyeonlog-developer.tistory.com
-- Contact : ss99x200211@gmail.com
+- Contact : ss99x2002@inha.edu
 
-#### 📖 Skills
+### 📖 Skills
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
 
-#### 🌟 Experience
+### 🌟 Experience
 - <a href = "https://www.makeus.in/umc"> UMC </a> INHA 2,3기 Android Member (2022.03 ~ 2022.12)
 - <a href = "https://developersonair.withgoogle.com/events/composecamp_22kr"> Google Compose Camp </a> Beginner (2022.11 ~ 2022.12)
 - <a href ="https://www.sopt.org/"> SOPT </a> 32기 Android YB Member (2023.03 ~ 2023.07)
