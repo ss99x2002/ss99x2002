@@ -5,12 +5,19 @@
 
 <div>
 
-### 💙 About Me
+#### ✨ About Me
 - Inha University - Computer Science Engineering
 - Blog : https://hyeonlog-developer.tistory.com
 - Contact : ss99x2002@inha.edu
 
-### 📖 Skills
+#### 🌟 Experience
+- **UMC INHA** 2nd, 3rd Android Member (2022.03 ~ 2022.12)
+- **Swith** : 스터디 관리 서비스 Android Developer (2022.06 ~ 2023.02) 최우수상 수상 
+- **Google Compose Camp** Beginner (2022.11 ~ 2022.12)
+- **32nd SOPT** Android YB Member (2023.03 ~ 2023.07)
+- **엄빠도 어렸다** : 부모님과 문답 아카이빙 서비스 Android Developer (2023.06 ~ ing) 최우수상 수상 
+
+#### 🔥 Skills
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
@@ -24,17 +31,9 @@
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
 
-### 🌟 Experience
-- <a href = "https://www.makeus.in/umc"> UMC </a> INHA 2,3기 Android Member (2022.03 ~ 2022.12)
-- <a href = "https://developersonair.withgoogle.com/events/composecamp_22kr"> Google Compose Camp </a> Beginner (2022.11 ~ 2022.12)
-- <a href ="https://www.sopt.org/"> SOPT </a> 32기 Android YB Member (2023.03 ~ 2023.07)
-
 <!--
-| 단체 | 역할 | 기간 | 수상 |
-| --- | --- | --- | --- |
-| <a href = "https://www.makeus.in/umc"> UMC </a> | UMC INHA 2,3기 Android 파트 | 2022.03 ~ 2022.12 | 2기 앱런칭 최우수상 |
-| <a href = "https://developersonair.withgoogle.com/events/composecamp_22kr"> Google Compose Camp </a> | Beginner | 2022.11.07 ~ 2022.12.16 | - |
-| <a href ="https://www.sopt.org/"> SOPT </a> | 32기 Android 파트 | 2023.03 ~ 2023.07 |  32기 앱잼 최우수상 | -->
+#### 🌱 BOJ
+<div align=left><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ss99x2002"></div> -->
 
 <!-- ### Hi there 👋 -->
 <!--
