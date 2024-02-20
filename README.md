@@ -5,19 +5,19 @@
 
 <div>
 
-#### ✨ About Me
+### ✨ About Me
 - Inha University - Computer Science Engineering
 - Blog : https://hyeonlog-developer.tistory.com
 - Contact : ss99x2002@inha.edu
 
-#### 🌟 Experience
+### 🌟 Experience
 - **UMC INHA** 2nd, 3rd Android Member (2022.03 ~ 2022.12)
 - **Swith** : 스터디 관리 서비스 Android Developer (2022.06 ~ 2023.02) 최우수상 수상 
 - **Google Compose Camp** Beginner (2022.11 ~ 2022.12)
 - **32nd SOPT** Android YB Member (2023.03 ~ 2023.07)
 - **엄빠도 어렸다** : 부모님과 문답 아카이빙 서비스 Android Developer (2023.06 ~ ing) 최우수상 수상 
 
-#### 🔥 Skills
+### 🔥 Skills
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
