@@ -15,7 +15,7 @@
 - **Swith** : 스터디 관리 서비스 Android Developer (2022.06 ~ 2023.02) 최우수상 수상 
 - **Google Compose Camp** Beginner (2022.11 ~ 2022.12)
 - **SOPT** 32nd Android YB Member (2023.03 ~ 2023.07)
-- **엄빠도 어렸다** : 부모님과 문답 아카이빙 서비스 Android Developer (2023.06 ~ ing) 최우수상 수상 
+- <a href ="https://play.google.com/store/apps/details?id=com.ubcompany.umbba_android">**엄빠도 어렸다**</a> : 부모님과 문답 아카이빙 서비스 Android Developer (2023.06 ~ ing) 최우수상 수상 
 
 ### 🔥 Skills
 
