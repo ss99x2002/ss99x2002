@@ -15,7 +15,8 @@
 - **Swith** : 스터디 관리 서비스 Android Developer (2022.06 ~ 2023.02) 최우수상 수상 
 - **Google Compose Camp** Beginner (2022.11 ~ 2022.12)
 - **SOPT** 32nd Android YB Member (2023.03 ~ 2023.07)
-- <a href ="https://play.google.com/store/apps/details?id=com.ubcompany.umbba_android">**엄빠도 어렸다**</a> : 부모님과 문답 아카이빙 서비스 Android Developer (2023.06 ~ ing) 최우수상 수상 
+- <a href ="https://play.google.com/store/apps/details?id=com.ubcompany.umbba_android">**엄빠도 어렸다**</a> : 부모님과 문답 아카이빙 서비스 Android Developer (2023.06 ~ 2024.05) 최우수상 수상
+- 
 
 ### 🔥 Skills
 
@@ -23,9 +24,6 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" />
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"><br>
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white">
