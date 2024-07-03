@@ -1,16 +1,16 @@
 <div>
 
- ## Seohyeon 
+### Seohyeon 
 </div>
 
 <div>
 
-### ✨ About Me
+**✨ About Me**
 - Inha University - Computer Science Engineering
 - Blog : https://hyeonlog-developer.tistory.com
 - Contact : ss99x2002@inha.edu
 
-### 🔥 Skills
+**🔥 Skills**
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
@@ -19,9 +19,10 @@
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"> 
+<br><br>
 
-### 🌟 Experience
+**🌟 Experience**
 |경험|기간|
 |:---|:---|
 | [**UMC INHA** : IT 연합 동아리] 2nd, 3rd Android Member | 22.03 ~ 22.12 |
