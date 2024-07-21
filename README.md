@@ -23,6 +23,7 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"> 
 <br><br>
 
+<!-- 
 **🌟 Experience**
 |경험|기간|
 |:---|:---|
@@ -30,7 +31,7 @@
 | [**Swith** : 스터디 관리 서비스] Android Developer | 22.06 ~ 23.02 |
 | [**SOPT** : IT 연합 동아리] 32nd Android YB Member | 23.03 ~ 23.07 |
 | [**엄빠도 어렸다** : 부모님과 문답 아카이빙 서비스] Android Developer | 23.06 ~ 24.05|
-| [**우리의 용기** : 다회용기 대여 서비스] Android Developer | 24.04 ~ 24.06|
+| [**우리의 용기** : 다회용기 대여 서비스] Android Developer | 24.04 ~ 24.06| -->
 
 <!--
 #### 🌱 BOJ
