@@ -7,7 +7,6 @@
 
 **✨ About Me**
 - Inha University - Computer Science Engineering
-- Blog : https://hyeonlog-developer.tistory.com
 - Contact : ss99x2002@inha.edu
 
 **🔥 Skills**
