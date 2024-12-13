@@ -14,7 +14,12 @@
 <img src="https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=JAVA&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/Android-000000?style=flat-square&logo=Android&logoColor=white" />
+<img src="https://img.shields.io/badge/Jetpack Compose-000000?style=flat-square&logo=JetpackCompose&logoColor=white" />
+<!--
+<img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=Docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Github Actions-000000?style=flat-square&logo=GithubActions&logoColor=white" /> -->
 <br><br>
 
 <!-- 
