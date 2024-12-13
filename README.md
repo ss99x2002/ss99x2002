@@ -17,10 +17,16 @@
 <br>
 <img src="https://img.shields.io/badge/Android-000000?style=flat-square&logo=Android&logoColor=white" />
 <img src="https://img.shields.io/badge/Jetpack Compose-000000?style=flat-square&logo=JetpackCompose&logoColor=white" />
+<br>
 <!--
+<img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=Spring&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=MySQL&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-E2C-000000?style=flat-square&logo=AWS-E2C&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=Docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Github Actions-000000?style=flat-square&logo=GithubActions&logoColor=white" /> -->
-<br><br>
+<img src="https://img.shields.io/badge/Github Actions-000000?style=flat-square&logo=GithubActions&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=Firebase&logoColor=white" />
+<br> -->
 
 <!-- 
 **🌟 Experience**
