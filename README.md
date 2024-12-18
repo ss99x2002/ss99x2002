@@ -20,6 +20,7 @@
 <br>
 <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=Docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Github Actions-000000?style=flat-square&logo=GithubActions&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Terraform-000000?style=flat-square&logo=Terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=Firebase&logoColor=white" />
 <br> 
 
