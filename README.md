@@ -1,15 +1,15 @@
 <div>
 
-### Seohyeon 
+## Seohyeon Shin
 </div>
 
 <div>
 
-**✨ About Me**
-- Inha University - Computer Science Engineering
+### **✨ About Me**
+- Inha University, Computer Science Engineering
 - Contact : ss99x2002@inha.edu
 
-**🔥 Skills**
+### **🔥 Skills**
 
 <img src="https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white"/>
@@ -21,7 +21,6 @@
 <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=Docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Github Actions-000000?style=flat-square&logo=GithubActions&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Terraform-000000?style=flat-square&logo=Terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=Firebase&logoColor=white" />
 <br> 
 
 <!--
