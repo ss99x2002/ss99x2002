@@ -7,7 +7,7 @@
 
 ### **✨ About Me**
 - Inha University, Computer Science Engineering
-- Contact : ss99x2002@inha.edu
+- Contact : ss99x2002@naver.com
 
 ### **🔥 Skills**
 
