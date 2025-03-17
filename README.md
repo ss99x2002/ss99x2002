@@ -18,27 +18,29 @@
 <img src="https://img.shields.io/badge/Android-000000?style=flat-square&logo=Android&logoColor=white" />
 <img src="https://img.shields.io/badge/Jetpack Compose-000000?style=flat-square&logo=JetpackCompose&logoColor=white" />
 <br>
+
+<img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=Spring&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=MySQL&logoColor=white" />
+<br>
+
 <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=Docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Github Actions-000000?style=flat-square&logo=GithubActions&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Terraform-000000?style=flat-square&logo=Terraform&logoColor=white" />
 <br> 
 
 <!--
-<img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=Spring&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=MySQL&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-E2C-000000?style=flat-square&logo=AWS-E2C&logoColor=white" />
-<br> -->
+<br> --> 
 
-
-<!-- 
-**🌟 Experience**
+### **🌟 Experience**
 |경험|기간|
 |:---|:---|
-| [**UMC INHA** : IT 연합 동아리] 2nd, 3rd Android Member | 22.03 ~ 22.12 |
-| [**Swith** : 스터디 관리 서비스] Android Developer | 22.06 ~ 23.02 |
-| [**SOPT** : IT 연합 동아리] 32nd Android YB Member | 23.03 ~ 23.07 |
-| [**엄빠도 어렸다** : 부모님과 문답 아카이빙 서비스] Android Developer | 23.06 ~ 24.05|
-| [**우리의 용기** : 다회용기 대여 서비스] Android Developer | 24.04 ~ 24.06| -->
+| [UMC INHA : IT 연합 동아리] 8th Server Member | 25.03 ~  |
+| [우리의 용기 : 다회용기 대여 서비스] Android Developer | 24.04 ~ 24.06 |
+| [엄빠도 어렸다 : 부모님과 문답 아카이빙 서비스] Android Developer | 23.06 ~ 24.05 |
+| [SOPT : IT 연합 동아리] 32nd Android YB Member | 23.03 ~ 23.07 |
+| [Swith : 스터디 관리 서비스] Android Developer | 22.06 ~ 23.02 |
+| [UMC INHA : IT 연합 동아리] 2nd, 3rd Android Member | 22.03 ~ 22.12 |
 
 <!--
 #### 🌱 BOJ
