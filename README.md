@@ -35,12 +35,12 @@
 ### **🌟 Experience**
 |경험|기간|
 |:---|:---|
-| [UMC INHA : IT 연합 동아리] 8th Server Member | 25.03 ~  |
+| [UMC : IT 연합 동아리] 8th Server Member | 25.03 ~  |
 | [우리의 용기 : 다회용기 대여 서비스] Android Developer | 24.04 ~ 24.06 |
 | [엄빠도 어렸다 : 부모님과 문답 아카이빙 서비스] Android Developer | 23.06 ~ 24.05 |
 | [SOPT : IT 연합 동아리] 32nd Android YB Member | 23.03 ~ 23.07 |
 | [Swith : 스터디 관리 서비스] Android Developer | 22.06 ~ 23.02 |
-| [UMC INHA : IT 연합 동아리] 2nd, 3rd Android Member | 22.03 ~ 22.12 |
+| [UMC : IT 연합 동아리] 2nd, 3rd Android Member | 22.03 ~ 22.12 |
 
 <!--
 #### 🌱 BOJ
