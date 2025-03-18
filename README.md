@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Jetpack Compose-000000?style=flat-square&logo=JetpackCompose&logoColor=white" />
 <br>
 
-<img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=Spring&logoColor=white" />
+<img src="https://img.shields.io/badge/SpringBoot-000000?style=flat-square&logo=SpringBoot&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=MySQL&logoColor=white" />
 <br>
 
