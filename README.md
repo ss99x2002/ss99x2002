@@ -31,6 +31,7 @@
 <!--
 <img src="https://img.shields.io/badge/AWS-E2C-000000?style=flat-square&logo=AWS-E2C&logoColor=white" />
 <br> --> 
+<!--
 ### **🪴 Project**
 |경험|기간|
 |:---|:---|
@@ -45,7 +46,7 @@
 | [UMC : IT 연합 동아리] 8th Server Member | 25.03 ~  |
 | [SOPT : IT 연합 동아리] 32nd Android YB Member | 23.03 ~ 23.07 |
 | [UMC : IT 연합 동아리] 2nd, 3rd Android Member | 22.03 ~ 22.12 |
-
+-->
 <!--
 #### 🌱 BOJ
 <div align=left><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ss99x2002"></div> -->
