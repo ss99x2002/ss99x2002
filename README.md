@@ -15,10 +15,9 @@
 <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=JAVA&logoColor=white"/>
 <br>
+
 <img src="https://img.shields.io/badge/Android-000000?style=flat-square&logo=Android&logoColor=white" />
 <img src="https://img.shields.io/badge/Jetpack Compose-000000?style=flat-square&logo=JetpackCompose&logoColor=white" />
-<br>
-
 <img src="https://img.shields.io/badge/SpringBoot-000000?style=flat-square&logo=SpringBoot&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=MySQL&logoColor=white" />
 <br>
